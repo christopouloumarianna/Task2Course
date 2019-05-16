@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\task2course\task2course\bin\Debug\netcoreapp2.1\task2course.deps.json
+C:\Users\Admin\source\repos\task2course\task2course\bin\Debug\netcoreapp2.1\task2course.runtimeconfig.json
+C:\Users\Admin\source\repos\task2course\task2course\bin\Debug\netcoreapp2.1\task2course.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\task2course\task2course\bin\Debug\netcoreapp2.1\task2course.dll
+C:\Users\Admin\source\repos\task2course\task2course\bin\Debug\netcoreapp2.1\task2course.pdb
+C:\Users\Admin\source\repos\task2course\task2course\obj\Debug\netcoreapp2.1\task2course.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\task2course\task2course\obj\Debug\netcoreapp2.1\task2course.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\task2course\task2course\obj\Debug\netcoreapp2.1\task2course.AssemblyInfo.cs
+C:\Users\Admin\source\repos\task2course\task2course\obj\Debug\netcoreapp2.1\task2course.dll
+C:\Users\Admin\source\repos\task2course\task2course\obj\Debug\netcoreapp2.1\task2course.pdb
